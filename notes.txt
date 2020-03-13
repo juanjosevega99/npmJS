@@ -1,0 +1,4 @@
+//crear un packaje.json rapido 
+npm init -y
+//fijar datos
+npm set init.author.email "juanjosevegaq@gmail.com"
