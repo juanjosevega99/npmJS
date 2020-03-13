@@ -12,5 +12,11 @@
     "package"
   ],
   "author": "Juan Jose Vega <juanjosevegaq@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.10.0"
+  }
 }

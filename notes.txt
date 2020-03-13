@@ -2,3 +2,12 @@
 npm init -y
 //fijar datos
 npm set init.author.email "juanjosevegaq@gmail.com"
+
+//instalar una dependencia que es necesaria en produccion
+--save = -S
+//instalar una dependencia en entorno de desarrollo
+--save-dev = -D
+//Dependencias exactas
+-E
+//conocer la lista de paquetes instalados de manera global
+npm list -g --depht 0
