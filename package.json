@@ -14,7 +14,7 @@
   "author": "Juan Jose Vega <juanjosevegaq@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "date-fns": "^2.11.0"
